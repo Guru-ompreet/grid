@@ -1,4 +1,4 @@
-/ Importing React library and Component class
+// Importing React library and Component class
 import React, { Component } from 'react';
 // Importing external CSS file to style the component
 import './App.css';
